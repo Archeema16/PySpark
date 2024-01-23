@@ -1,7 +1,7 @@
 # PySpark
-Welcome to the Data Intensive Programming course repository! This repository contains assignments and project completed during the Data Intensive Programming course. The course primarily focuses on utilizing Python and PySpark for data-intensive tasks, and all code is implemented and tested on Azure Databricks.
+Welcome to the Data Intensive Programming course repository! This repository contains assignments and project completed during the course. The course primarily focuses on utilizing Python, PySpark, SQL for data-intensive tasks, and all code is implemented and tested on Azure Databricks.
 
-Contents<br>
+**Contents:-** <br><br>
 
 **Assignments:** Find a collection of assignments that cover various aspects of data-intensive programming using Python and PySpark.
 
